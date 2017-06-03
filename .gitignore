@@ -1,6 +1,12 @@
-#ignore file
+﻿#ignore file
 *.a
+*.exe
+*.cpb
+*.depend
+*.o
+*.layout
 bulid*/
 *.txt
 *~
 
+*.cbp
